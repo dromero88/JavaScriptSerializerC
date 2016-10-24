@@ -1,0 +1,5 @@
+C:\Proyectos\JavaScriptSerializerC\JavaScriptSerializerC\bin\JavaScriptSerializerC.dll
+C:\Proyectos\JavaScriptSerializerC\JavaScriptSerializerC\bin\JavaScriptSerializerC.pdb
+C:\Proyectos\JavaScriptSerializerC\JavaScriptSerializerC\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyectos\JavaScriptSerializerC\JavaScriptSerializerC\obj\Debug\JavaScriptSerializerC.dll
+C:\Proyectos\JavaScriptSerializerC\JavaScriptSerializerC\obj\Debug\JavaScriptSerializerC.pdb
